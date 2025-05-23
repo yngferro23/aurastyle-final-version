@@ -57,61 +57,61 @@ const fashionStyles = [
     id: "old-money",
     name: "Old Money",
     description: "Understated luxury with timeless, high-quality basics in neutral tones. Think cashmere sweaters, tailored trousers, and minimal accessories.",
-    imageUrl: "https://images.unsplash.com/photo-1609505848912-b7c3b8b4beda?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80"
+    imageUrl: "/images/styles/oldmoney.jpg"
   },
   {
     id: "streetwear",
     name: "Streetwear",
     description: "Urban casual with oversized silhouettes, graphic tees, hoodies, and sneakers. Influenced by skate, hip-hop, and sports cultures.",
-    imageUrl: "https://images.unsplash.com/photo-1523398002811-999ca8dec234?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80"
+    imageUrl: "/images/styles/streetwear.jpg"
   },
   {
     id: "y2k",
     name: "Y2K",
     description: "2000s revival featuring low-rise jeans, baby tees, butterfly clips, and bold colors. Playful, nostalgic, and often experimental.",
-    imageUrl: "https://images.unsplash.com/photo-1618875172060-c439788e7b24?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80"
+    imageUrl: "/images/styles/y2k.jpg"
   },
   {
     id: "dark-academia",
     name: "Dark Academia",
     description: "Scholarly aesthetic with tweed blazers, Oxford shoes, plaid patterns, and vintage-inspired pieces in dark, earthy tones.",
-    imageUrl: "https://images.unsplash.com/photo-1612387605330-74e5a4ab2a0e?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80"
+    imageUrl: "/images/styles/darkacademia.jpg"
   },
   {
     id: "minimalist",
     name: "Minimalist",
     description: "Clean lines, neutral colors, and simplistic designs focused on quality over quantity. Timeless pieces that work together seamlessly.",
-    imageUrl: "https://images.unsplash.com/photo-1479064555552-3ef4979f8908?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80"
+    imageUrl: "/images/styles/minimalist.jpg"
   },
   {
     id: "cottagecore",
     name: "Cottagecore",
     description: "Romanticized rural aesthetics with floral prints, flowing dresses, and natural fabrics. Emphasis on handmade and vintage items.",
-    imageUrl: "https://images.unsplash.com/photo-1594467810785-95fe698b6b38?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80"
+    imageUrl: "/images/styles/cottagecore.jpg"
   },
   {
     id: "goth",
     name: "Goth",
     description: "Dark and dramatic with all-black ensembles, leather, lace, and silver hardware. Often features Victorian or punk-inspired elements.",
-    imageUrl: "https://images.unsplash.com/photo-1461938337379-4b537cd2db74?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80"
+    imageUrl: "/images/styles/goth.jpg"
   },
   {
     id: "preppy",
     name: "Preppy",
     description: "Clean-cut collegiate style with polo shirts, button-downs, chinos, and loafers. Traditional, polished, and often nautical-inspired.",
-    imageUrl: "https://images.unsplash.com/photo-1602810320073-1230c46d89d3?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80"
+    imageUrl: "/images/styles/preppy.jpg"
   },
   {
-    id: "e-girl",
+    id: "egirl",
     name: "E-Girl/E-Boy",
-    description: "Internet subculture aesthetic mixing elements of goth, anime, and skater styles with colorful hair, chains, and layered clothing.",
-    imageUrl: "https://images.unsplash.com/photo-1622211827147-a9d2137590c7?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80"
+    description: "Internet-influenced aesthetic mixing elements of anime, skate culture, goth, and emo. Characterized by colorful hair, layered clothing, and makeup.",
+    imageUrl: "/images/styles/egirl.jpg"
   },
   {
     id: "bohemian",
     name: "Bohemian",
     description: "Free-spirited style with flowing fabrics, ethnic patterns, and artisanal accessories. Layered and eclectic with earthy colors.",
-    imageUrl: "https://images.unsplash.com/photo-1518893063132-36e46dbe2428?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80"
+    imageUrl: "/images/styles/bohemian.jpg"
   },
   {
     id: "starboy",
@@ -123,7 +123,7 @@ const fashionStyles = [
     id: "techwear",
     name: "Techwear",
     description: "Functional urban apparel with weather-resistant fabrics, tactical details, and modular accessories. Futuristic aesthetic in dark colors.",
-    imageUrl: "https://images.unsplash.com/photo-1558223708-7bea309e40e4?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80"
+    imageUrl: "/images/styles/techwear.jpg"
   }
 ];
 
